@@ -1,19 +1,3 @@
-## Languages </>
-#### Currently Learning ✨
-![Static Badge](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&logo=typescript&logoColor=white&labelColor=007acc&color=007acc)
-![Static Badge](https://img.shields.io/badge/python-FFFF00?style=for-the-badge&logo=python&logoColor=black)
-
-
-#### Mastering 🥋
-![Static Badge](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black)
-![Static Badge](https://img.shields.io/badge/php-9D00FF?style=for-the-badge&logo=php&logoColor=white)
-
-## Frameworks & Libraries 🚀
-![Static Badge](https://img.shields.io/badge/laravel-f55247?style=for-the-badge&logo=laravel&logoColor=white)
-![Static Badge](https://img.shields.io/badge/react-61DBFB?style=for-the-badge&logo=react&logoColor=black)
-![Static Badge](https://img.shields.io/badge/inertia-52c89f?style=for-the-badge&logo=inertia&logoColor=white)
-
-
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/jer.don.35) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jd.litaoen) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jdlitaoen@gmail.com) 
 
