@@ -3,10 +3,9 @@
 <p>
   <img align="left" width="100" src="https://github.com/user-attachments/assets/10583cdc-d040-47d2-b803-64985e66e373" />
   
-  <strong>Hi there 👋 I'm Jerdon Litaoen</strong><br/>
-  🚀 IT Student | Web Developer<br/>
+  🚀 IT Student from University of the Cordilleras.<br/>
+  🏗️ Web developer focusing on scalable systems.<br/>
   🛠️ Building <strong>Hrvst</strong> for La Trinidad Vegetable Trading Post<br/>
-  🏗️ Focused on Laravel, Vue, and scalable systems<br/>
   📍 Benguet, Philippines
 </p>
 <br clear="left"/>
@@ -19,9 +18,28 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=FF2D20&label=PHP&labelColor=black">
-  <img src="https://img.shields.io/badge/Vue-42b883?style=for-the-badge&logo=vuedotjs&logoColor=42b883&label=TypeScript&labelColor=black">
-  <img src="https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&logoColor=61DBFB&label=TypeScript&labelColor=black">
+  <img src="https://img.shields.io/badge/Vue-42b883?style=for-the-badge&logo=vuedotjs&logoColor=42b883&label=TS&labelColor=black">
+  <img src="https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&logoColor=61DBFB&label=TS&labelColor=black">
+  <img src="https://img.shields.io/badge/Postgresql-336791?style=for-the-badge&logo=postgresql&logoColor=336791&label=DB&labelColor=black">
+  <img src="https://img.shields.io/badge/Inertia-9553E9?style=for-the-badge&logo=inertia&logoColor=9553E9&label=JS&labelColor=black">
 </p>
+
+---
+
+## 🧠 Engineering Focus
+
+- Database design & Relationships
+- Monolith applications using Inertia
+- Scalable architecture patterns
+- Clean code & maintainability
+
+---
+
+## 🏆 Highlights
+
+- Built full-stack systems using Laravel + Vue
+- Collaborating in a team environment (Team Cresco)
+- Developing production-ready features (auth, CRUD, APIs)
 
 ---
 
@@ -37,24 +55,6 @@
   <li>🔐 Authentication & role-based access</li>
   <li>📊 Data-driven decision support</li>
 </ul>
-
----
-
-## 🧠 Engineering Focus
-
-- RESTful API design
-- Authentication systems (JWT, sessions)
-- Database design & relationships
-- Scalable architecture patterns
-- Clean code & maintainability
-
----
-
-## 🏆 Highlights
-
-- Built full-stack systems using Laravel + Vue
-- Collaborating in a team environment (Team Cresco)
-- Developing production-ready features (auth, CRUD, APIs)
 
 ---
 
@@ -79,5 +79,4 @@
 <p>
   <a href="mailto:jdlitaoen@gmail.com">Email</a> •
   <a href="https://github.com/Jerdon07">GitHub</a> •
-  <a href="#">Portfolio (soon)</a>
 </p>
