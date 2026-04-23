@@ -22,7 +22,7 @@
   <img src="https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&logoColor=61DBFB&label=TS&labelColor=black">
   <img src="https://img.shields.io/badge/Postgresql-336791?style=for-the-badge&logo=postgresql&logoColor=336791&label=DB&labelColor=black">
   <img src="https://img.shields.io/badge/Inertia-9553E9?style=for-the-badge&logo=inertia&logoColor=9553E9&label=JS&labelColor=black">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=F24E1E&label=JS&labelColor=black">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=F24E1E&labelColor=black">
 </p>
 
 ---
