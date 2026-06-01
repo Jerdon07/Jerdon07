@@ -30,6 +30,7 @@
 ## 🧠 Engineering Focus
 
 - Database design & Relationships
+- Solving N+1 Query Problem
 - Monolith applications using Inertia
 - Scalable architecture patterns
 - Clean code & maintainability
@@ -40,6 +41,7 @@
 
 - Built full-stack systems using Laravel + Vue
 - Collaborating in a team environment (Team Cresco)
+- Scrum Master / Project Support / Quality Assurance in IOL Inc.
 - Developing production-ready features (auth, CRUD, APIs)
 
 ---
