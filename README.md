@@ -3,10 +3,11 @@
 <p>
   <img align="left" width="100" src="https://github.com/user-attachments/assets/10583cdc-d040-47d2-b803-64985e66e373" />
   
-  🚀 IT Student from University of the Cordilleras.<br/>
-  🏗️ Web developer focusing on scalable systems.<br/>
+  🚀 IT Web Tech Student from University of the Cordilleras.<br/>
+  🏗️ Full-stack Web developer focusing on scalable systems.<br/>
+  🔗 More about me? click <a href="https://jerdon-litaoen.vercel.app/">here</a>!<br/>
   🛠️ Building <strong>Hrvst</strong> for La Trinidad Vegetable Trading Post<br/>
-  📍 Benguet, Philippines
+  📍 Baguio, Philippines
 </p>
 <br clear="left"/>
 
@@ -27,10 +28,17 @@
 
 ---
 
-## 🧠 Engineering Focus
+## 🧠 Design Principles and Best Practices
 
+- Convention over Configuration
+- S.O.L.I.D.
+- Service-Action Pattern
+- Object-Oriented Programming
+- Domain-Driven-Design
+- Role-Based Access Control (RBAC)
+- Data Structures & Algorithms
+- N+1 Eager Loading
 - Database design & Relationships
-- Solving N+1 Query Problem
 - Monolith applications using Inertia
 - Scalable architecture patterns
 - Clean code & maintainability
@@ -41,7 +49,7 @@
 
 - Built full-stack systems using Laravel + Vue
 - Collaborating in a team environment (Team Cresco)
-- Scrum Master / Project Support / Quality Assurance in IOL Inc.
+- Scrum Master / Project Manager Intern / Quality Assurance in IOL Inc.
 - Developing production-ready features (auth, CRUD, APIs)
 
 ---
