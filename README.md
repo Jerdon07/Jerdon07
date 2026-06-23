@@ -1,75 +1,68 @@
-## Hi there 👋 I'm Jerdon Litaoen
+## Jerdon Litaoen, Full-Stack Architect
 
 <p>
   <img align="left" width="100" src="https://github.com/user-attachments/assets/10583cdc-d040-47d2-b803-64985e66e373" />
   
-  🚀 IT Web Tech Student from University of the Cordilleras.<br/>
-  🏗️ Full-stack Web developer focusing on scalable systems.<br/>
+  🚀 BSIT Web-Tech from <a href="https://www.uc-bcf.edu.ph/">University of the Cordilleras</a>.<br/>
+  🏗️ Backend-focused system designer.<br/>
   🔗 More about me? click <a href="https://jerdon-litaoen.vercel.app/">here</a>!<br/>
-  🛠️ Building <strong>Hrvst</strong> for La Trinidad Vegetable Trading Post<br/>
-  📍 Baguio, Philippines
+  🛠️ Building <a href="https://hrvst.free.laravel.cloud">Hrvst</a>: La Trinidad Vegetable Trading Post.<br/>
+  📍 Baguio, Philippines.
 </p>
 <br clear="left"/>
 
----
-
-
-
-## 🛠 Tech Stack
+### 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=FF2D20&label=PHP&labelColor=black">
-  <img src="https://img.shields.io/badge/Vue-42b883?style=for-the-badge&logo=vuedotjs&logoColor=42b883&label=TS&labelColor=black">
-  <img src="https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&logoColor=61DBFB&label=TS&labelColor=black">
-  <img src="https://img.shields.io/badge/Postgresql-336791?style=for-the-badge&logo=postgresql&logoColor=336791&label=DB&labelColor=black">
-  <img src="https://img.shields.io/badge/Inertia-9553E9?style=for-the-badge&logo=inertia&logoColor=9553E9&label=JS&labelColor=black">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=F24E1E&labelColor=black">
+  <a href="https://laravel.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=FF2D20&label=PHP&labelColor=black">
+  </a>
+
+  <a href="https://vuejs.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Vue-42b883?style=for-the-badge&logo=vuedotjs&logoColor=42b883&label=TS&labelColor=black">
+  </a>
+
+  <a href="https://react.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&logoColor=61DBFB&label=TS&labelColor=black">
+  </a>
+
+  <a href="https://www.postgresql.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Postgresql-336791?style=for-the-badge&logo=postgresql&logoColor=336791&label=DB&labelColor=black">
+  </a>
+
+  <a href="https://inertiajs.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Inertia-9553E9?style=for-the-badge&logo=inertia&logoColor=9553E9&label=JS&labelColor=black">
+  </a>
+
+  <a href="https://www.figma.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=F24E1E&labelColor=black">
+  </a>
+  
 </p>
 
 ---
 
-## 🧠 Design Principles and Best Practices
+### 🎯 Objective & Mastery
+- Expanding system designing skills
+- Cultivating backend architecture skill
+- Mastering Laravel Framework
 
+### 📚 Design Principles
 - Convention over Configuration
-- S.O.L.I.D.
 - Service-Action Pattern
-- Object-Oriented Programming
 - Domain-Driven-Design
 - Role-Based Access Control (RBAC)
-- Data Structures & Algorithms
 - N+1 Eager Loading
-- Database design & Relationships
-- Monolith applications using Inertia
-- Scalable architecture patterns
-- Clean code & maintainability
+
+### 🏆 Highlights
+
+- Shipped <a href="https://hrvst.free.laravel.cloud">Hrvst</a> using VILT Stack
+- Collaborating in Agile Development Projects [<a href="https://zigmafy.com/">Zigmafy</a>, <a href="https://mobile.zircuvia.com/">ZircuVia</a>]
+- Scrum Master & Quality Assurance intern at <a href="https://www.iol.ph/">IOL Inc</a>.
 
 ---
 
-## 🏆 Highlights
-
-- Built full-stack systems using Laravel + Vue
-- Collaborating in a team environment (Team Cresco)
-- Scrum Master / Project Manager Intern / Quality Assurance in IOL Inc.
-- Developing production-ready features (auth, CRUD, APIs)
-
----
-
-## 🚀 Featured Project
-
-### Hrvst – Smart Agriculture Platform
-<p>
-  A system designed to connect farmers and dealers with real-time supply tracking, pricing insights, and streamlined transactions.
-</p>
-
-<ul>
-  <li>⚙️ Laravel API + Vue frontend</li>
-  <li>🔐 Authentication & role-based access</li>
-  <li>📊 Data-driven decision support</li>
-</ul>
-
----
-
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
 <div align="center">
 
@@ -85,9 +78,9 @@
 
 </div>
 
-## 📬 Connect with Me
+## 📬 Contact
 
 <p>
   <a href="mailto:jdlitaoen@gmail.com">Email</a> •
-  <a href="https://github.com/Jerdon07">GitHub</a> •
+  <a href="https://www.linkedin.com/in/jerdon-litaoen/">LinkedIn</a>
 </p>
